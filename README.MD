@@ -54,8 +54,6 @@ add your NFT link (IPFS file stored link or Tweet) in the mint function and mint
 
 Then Go to Opensea Marketplace and see your NFT 
 
-![image](https://user-images.githubusercontent.com/92630647/148552986-b09d3ba1-b60b-41fd-9947-3a972fd4f327.png)
-
-
+![opensea](https://user-images.githubusercontent.com/92630647/148553269-9ece2007-7d78-4236-8ab0-292763b26dec.png)
 
 
