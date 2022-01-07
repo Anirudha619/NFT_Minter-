@@ -46,7 +46,7 @@ Then MetaMask confirmation will pop up click confirm.
 
 ## Step 7. Minting The NFT
 
-Once Contract is deployed to testnet Then how are ready to mint NFT.
+Once Contract is deployed to testnet Then you are ready to mint NFT.
 add your NFT link (IPFS file stored link or Tweet) in the mint function and mint the NFT.
 
 
